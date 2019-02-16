@@ -2,4 +2,5 @@
  Ernesto Hernandez Mar
 
 Portafolio de evidencias de la materia de Programacion Web Grupo BB
-<a href="imagenesytablas.html">Practica 1</a>
+<a href="imagenes y tablas.html">
+ Practica 1</a>
