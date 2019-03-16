@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://es.ilovevaquero.com/images/internet/svetlij-fon-kak-faktor-uvelicheniya-poseshaemosti-sajta_3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+ }
+.izquierdo{
+    width: 470px;
+    display: inline-block;
+
+
+}
+.derecho{
+    width: 180px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+    top:-68px;
+
+    
+}
+button{
+    height: 35px;
+    
+    text-align: center;
+    margin-bottom: 0.3em;
+    margin-right: 0.3em;
+}
+
+
